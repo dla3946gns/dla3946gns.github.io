@@ -3,7 +3,7 @@ title: MHLIM's Story
 subtitle: by Android Developer
 email: dla3946gns@naver.com
 description: 3년차 안드로이드 개발자 임명훈입니다.<br/>
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/dla3946gns/dla3946gns.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
